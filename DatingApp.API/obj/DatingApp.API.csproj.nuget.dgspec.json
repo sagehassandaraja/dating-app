@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Angular\\dating-app\\DatingApp.API\\DatingApp.API.csproj": {}
+    "G:\\Angular\\dating-app\\DatingApp.Api\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "G:\\Angular\\dating-app\\DatingApp.API\\DatingApp.API.csproj": {
+    "G:\\Angular\\dating-app\\DatingApp.Api\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Angular\\dating-app\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "G:\\Angular\\dating-app\\DatingApp.Api\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "G:\\Angular\\dating-app\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "G:\\Angular\\dating-app\\DatingApp.Api\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "G:\\Angular\\dating-app\\DatingApp.API\\obj\\",
+        "outputPath": "G:\\Angular\\dating-app\\DatingApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
